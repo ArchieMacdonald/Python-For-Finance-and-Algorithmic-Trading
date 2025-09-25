@@ -16,6 +16,9 @@ Python, NumPy, Pandas, Matplotlib, SciPy, yFinance
 
 ## Results
 - Identified optimal portfolio weights to maximise Sharpe Ratio.
+
+![Optimal Portfolio](results/PortfolioOptimal.png)
+
 - Visualised the efficient frontier and portfolio risk-return trade-offs.
 
 ![Efficient Frontier](results/Efficient-Frontier.png)
